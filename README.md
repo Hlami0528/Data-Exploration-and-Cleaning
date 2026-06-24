@@ -1,1 +1,1 @@
-Data Analysis of Titanic Dataset
+# **Data Analysis of Titanic Dataset**
